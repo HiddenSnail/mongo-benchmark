@@ -1,0 +1,5 @@
+*.spec
+.vscode/
+build/
+dist/
+
